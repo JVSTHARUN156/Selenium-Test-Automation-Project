@@ -1,0 +1,17 @@
+/target/test-classes
+target/
+*.txt
+*.jpg
+*.jpeg
+*.png
+/.idea
+*.jar
+*.log
+test-output/
+/.classpath
+/.project
+/.settings
+/chromedriver.exe
+/geckodriver.exe
+*.iml
+.idea/misc.xml
